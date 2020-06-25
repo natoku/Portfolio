@@ -1,0 +1,54 @@
+
+header {
+
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    
+}
+h1{
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing: -.2px; 
+    color: white;      
+}
+
+h1 strong {
+    color: #C35E2C;
+}
+
+.hero{
+    height: 300px;
+    background-image: url('../imagenes/iot.png');
+    background-color: #243443;
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.work_details{
+    width: 500px;
+}
+
+.work_logoContainer{
+    width: 500px;
+}
+
+.header {
+    background-color:#8f0303;
+    color: white;
+}
+.header a {
+    color: white;
+    text-decoration: none;
+}
